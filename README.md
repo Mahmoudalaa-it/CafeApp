@@ -13,8 +13,3 @@ In addition, duplicated both the network resources and the café application res
 2- Deployed an application layer by using an AWS CloudFormation template.
 
 3- Duplicated network and application resources to another AWS Region by using AWS CloudFormation
-
-
-
-
-
