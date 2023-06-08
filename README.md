@@ -12,7 +12,7 @@ In addition, duplicated both the network resources and the café application res
 
 2- Deployed an application layer by using an AWS CloudFormation template.
 
-3- Used Git to invoke AWS CodePipeline, and to create or update stacks from templates that are stored in AWS CodeCommit
+3- Duplicated network and application resources to another AWS Region by using AWS CloudFormation
 
 
 
